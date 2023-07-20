@@ -15,7 +15,7 @@ Micro Nano Bio
 
 > This is the description of the feed.
 
-Bluesky feed on anything micro or nano relating to Life Sciences
+Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell biology, molecular biology, biophysics, nanobiotechnology etc and many others welcome. Just add the 🦠 symbol to your post.
 
 # searchTerms
 
