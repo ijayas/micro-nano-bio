@@ -26,14 +26,13 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 > - Pinned posts: links such as `https://bsky.app/profile/scattercushion.bsky.social/post/3jxo32cwqlv2r` will pin at the top of the feed. One link per line, please.
 
 - https://bsky.app/profile/ijayas.bsky.social/post/3k2xdjygwjz2q
-- #🔬
 - microscopy
 - "super resolution"
 - "single molecule"
 - "localization microscopy"
 - SMLM
-- #🦠
 - molecular
+- cellular
 - nanotechnology
 
 # safeMode
