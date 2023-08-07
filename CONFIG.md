@@ -26,7 +26,7 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 > - Pinned posts: links such as `https://bsky.app/profile/scattercushion.bsky.social/post/3jxo32cwqlv2r` will pin at the top of the feed. One link per line, please.
 
 > Users
-- https://bsky.app/profile/christlet.bsky.social
+- https://bsky.app/profile/ijayas.bsky.social AND 🔬 OR 🧪
 
 > keywords
 - https://bsky.app/profile/ijayas.bsky.social/post/3k2xdjygwjz2q
