@@ -27,11 +27,6 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 
 > Users
 - https://bsky.app/profile/nanomicroscopy.bsky.social
-# - https://bsky.app/profile/biorxiv-biophys.bsky.social
-# - https://bsky.app/profile/biorxiv-microbiol.bsky.social
-# - https://bsky.app/profile/biorxiv-cellbio.bsky.social
-# - https://bsky.app/profile/biorxiv-molbio.bsky.social
-# - https://bsky.app/profile/elife.bsky.social
 - https://bsky.app/profile/singmolsci.bsky.social
 
 > keywords
@@ -66,7 +61,6 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 - biomolecular
 - RNA
 - DNA
-- 
 
 # safeMode
 
