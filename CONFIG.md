@@ -15,7 +15,7 @@ Micro Nano Bio
 
 > This is the description of the feed.
 
-Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell biology, molecular biology, biophysics, nanobiotechnology etc and many others welcome. Just add the 🔬 emoji to your post.
+Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell biology, molecular biology, biophysics, nanobiotechnology etc and many others welcome. 
 
 # searchTerms
 
@@ -27,22 +27,24 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 
 > Users
 - https://bsky.app/profile/biorxiv-biophys.bsky.social
-- https://bsky.app/profile/biorxiv-microbiol.bsky.social
-- https://bsky.app/profile/biorxiv-cellbio.bsky.social
-- https://bsky.app/profile/biorxiv-molbio.bsky.social
-- https://bsky.app/profile/elife.bsky.social
-- https://bsky.app/profile/singmolsci.bsky.social
+# - https://bsky.app/profile/biorxiv-microbiol.bsky.social
+# - https://bsky.app/profile/biorxiv-cellbio.bsky.social
+# - https://bsky.app/profile/biorxiv-molbio.bsky.social
+# - https://bsky.app/profile/elife.bsky.social
+# - https://bsky.app/profile/singmolsci.bsky.social
 
 > keywords
 - https://bsky.app/profile/ijayas.bsky.social/post/3k62cv2mrsw24
 - microscopy
-- "super resolution"
-- "single molecule"
-- "localization microscopy"
+- nanoscale
+- super resolution
+- single molecule
+- localization microscopy
 - SMLM
 - STORM
 - DNA-PAINT
 - MINFLUX
+- Cryo-EM
 - molecular
 - cellular
 - nanotechnology
@@ -53,6 +55,17 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 - genetic
 - proteomice
 - genomic
+- transcription factor
+- omic
+- membrane
+- organelle
+- mitochondrial
+- intracellular
+- extracellular
+- biomolecular
+- RNA
+- DNA
+- 
 
 # safeMode
 
