@@ -34,7 +34,6 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 - https://bsky.app/profile/singmolsci.bsky.social
 
 > keywords
-- https://bsky.app/profile/ijayas.bsky.social/post/3k2xdjygwjz2q
 - https://bsky.app/profile/ijayas.bsky.social/post/3k62cv2mrsw24
 - microscopy
 - "super resolution"
