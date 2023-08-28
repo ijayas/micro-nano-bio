@@ -26,18 +26,34 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 > - Pinned posts: links such as `https://bsky.app/profile/scattercushion.bsky.social/post/3jxo32cwqlv2r` will pin at the top of the feed. One link per line, please.
 
 > Users
-- https://bsky.app/profile/ijayas.bsky.social AND '🔬' OR '🧪'
+- https://bsky.app/profile/biorxiv-biophys.bsky.social
+- https://bsky.app/profile/biorxiv-microbiol.bsky.social
+- https://bsky.app/profile/biorxiv-cellbio.bsky.social
+- https://bsky.app/profile/biorxiv-molbio.bsky.social
+- https://bsky.app/profile/elife.bsky.social
+- https://bsky.app/profile/singmolsci.bsky.social
 
 > keywords
 - https://bsky.app/profile/ijayas.bsky.social/post/3k2xdjygwjz2q
+- https://bsky.app/profile/ijayas.bsky.social/post/3k62cv2mrsw24
 - microscopy
 - "super resolution"
 - "single molecule"
 - "localization microscopy"
 - SMLM
+- STORM
+- DNA-PAINT
+- MINFLUX
 - molecular
 - cellular
 - nanotechnology
+- "expansion microscopy"
+- FRET
+- bacterial
+- pathogen
+- genetic
+- proteomice
+- genomic
 
 # safeMode
 
