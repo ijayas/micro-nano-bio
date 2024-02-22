@@ -71,7 +71,7 @@ const publishSingle = async (agent: AtpAgent, configName: string, config: any) =
     },
   }
   console.log(JSON.stringify(record, null, 2))
-  await agent.api.com.atproto.repo.putRecord(record)
+  await agent.api.com.atproto.repo.createRecord(record)
   console.log('All done 🎉')
 }
 
