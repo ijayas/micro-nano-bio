@@ -28,6 +28,7 @@ Bluesky feed on anything micro or nano relating to Life Sciences. Posts on cell 
 > Users
 - https://bsky.app/profile/nanomicroscopy.bsky.social
 - https://bsky.app/profile/singmolsci.bsky.social
+- https://bsky.app/profile/ijayas.bsky.social
 
 > keywords
 - https://bsky.app/profile/ijayas.bsky.social/post/3k2xdjygwjz2q
